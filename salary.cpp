@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
-
 using namespace std;
-
 
 void Employee_Details(string employeename, string designation, string department, int employeeNumber, double basicSalary) {
     cout << "Enter Employee Name: ";
